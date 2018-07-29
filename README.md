@@ -6,6 +6,5 @@ This goal of this repository is to walk members of correlation team through the 
 This is still incomplete. 
 
 ## Contents: 
-<br>
 1. &nbsp; Exclusion Criterion:&nbsp;  Jupyter Notebook walking through the new method used to determine exclusions.
 2. &nbsp; Exclusions: &nbsp; Jupyter Notebook that determines exclusions.

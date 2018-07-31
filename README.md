@@ -7,4 +7,5 @@ This is still incomplete.
 
 ## Contents: 
 1. &nbsp; Exclusion Criterion:&nbsp;  Jupyter Notebook walking through the new method used to determine exclusions.
-2. &nbsp; Exclusions: &nbsp; Jupyter Notebook that determines exclusions.
+
+2. &nbsp; Exclusions: &nbsp; Jupyter Notebook that determines exclusions. Use this to get exclusions. 
